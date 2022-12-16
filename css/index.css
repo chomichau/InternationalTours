@@ -1,0 +1,225 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+.content-container { display: block; position: relative; width: 1920px; width: 1920px; height: 2600px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+@font-face {
+	font-family: 'Playfair Display Bold';
+	src: url('/fonts/PlayfairDisplay-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Playfair Display Medium';
+	src: url('/fonts/PlayfairDisplay-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'Playfair Display Regular';
+	src: url('/fonts/PlayfairDisplay-Regular.ttf');
+}
+@font-face {
+	font-family: 'Oswald Medium';
+	src: url('/fonts/Oswald-Medium.ttf');
+}
+.bg-desktop {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2600px;
+	background:rgba(255,255,255,1);
+}
+
+
+.background-image {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1248.71px;
+}
+
+
+.company-logo {
+	top: 70px;
+	left: 140px;
+	width: 80px;
+	height: 80px;
+}
+
+
+.lower-part {
+	top: 1248px;
+	left: 0px;
+	width: 1920px;
+	height: 1352px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-180deg , rgba(41,97,97,1) 0%, rgba(0,0,0,0.84) 100%);
+	background: -o-linear-gradient(-180deg , rgba(41,97,97,1) 0%, rgba(0,0,0,0.84) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(41,97,97,1) 0%, rgba(0,0,0,0.84) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(41,97,97,1) 0%, rgba(0,0,0,0.84) 100%);
+	background: linear-gradient(-180deg , rgba(41,97,97,1) 0%, rgba(0,0,0,0.84) 100%);
+}
+
+.navigation {
+	top: 88px;
+	left: 271px;
+	width: 636px;
+	height: 43px;
+}
+
+.about-us {
+	top: 0px;
+	left: 153px;
+	width: 146px;
+	height: 65px;
+	overflow: hidden;
+	font-family: 'Playfair Display Regular';
+	font-size: 32px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 42px;
+	color:#FFFFFF;
+}
+
+
+.tours {
+	top: 0px;
+	left: 314px;
+	width: 146px;
+	height: 65px;
+	overflow: hidden;
+	font-family: 'Playfair Display Regular';
+	font-size: 32px;
+	text-align: center;
+	line-height: 42px;
+	color:#FFFFFF;
+}
+
+
+.reviews {
+	top: 2px;
+	left: 475px;
+	width: 177px;
+	height: 62px;
+	overflow: hidden;
+	font-family: 'Playfair Display Regular';
+	font-size: 32px;
+	text-align: center;
+	line-height: 42px;
+	color:#FFFFFF;
+}
+
+
+.main {
+	top: 0px;
+	left: -5px;
+	width: 139px;
+	height: 65px;
+	overflow: hidden;
+	font-family: 'Playfair Display Regular';
+	font-size: 32px;
+	text-align: center;
+	line-height: 42px;
+	color:#FFFFFF;
+}
+
+.application {
+	top: 857px;
+	left: 780px;
+	width: 360px;
+	height: 122px;
+}
+
+.rectangle-button {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 122px;
+}
+
+
+.text-button {
+	top: 36px;
+	left: 58px;
+	width: 254px;
+	height: 74px;
+	overflow: hidden;
+	font-family: 'Oswald Medium';
+	font-size: 34px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	color:#FFFFFF;
+}
+
+
+.description {
+	top: 650px;
+	left: 647px;
+	width: 624px;
+	height: 91px;
+	overflow: hidden;
+	font-family: 'Playfair Display Medium';
+	font-size: 26px;
+	text-align: center;
+	line-height: 34px;
+	letter-spacing: 1px;
+	color:#FFFFFF;
+}
+
+
+.heading {
+	top: 445px;
+	left: 651px;
+	width: 633px;
+	height: 224px;
+	overflow: hidden;
+	font-family: 'Playfair Display Bold';
+	font-size: 64px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 85px;
+	color:#FFFFFF;
+}
+
+.media {
+	top: 2470px;
+	left: 140px;
+	width: 307.5px;
+	height: 60px;
+}
+
+.instagram {
+	top: 0px;
+	left: 0px;
+	width: 60px;
+	height: 60px;
+}
+
+
+.tiktok {
+	top: 0px;
+	left: 248px;
+	width: 60px;
+	height: 60px;
+}
+
+
+.vkontakte {
+	top: 0px;
+	left: 83px;
+	width: 60px;
+	height: 60px;
+}
+
+
+.telegram {
+	top: 0px;
+	left: 165px;
+	width: 60px;
+	height: 60px;
+}
+
+.char {
+	text-decoration: none;
+	color: #FFFFFF;
+}
